@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+config/secrets.php
+*.log
+db.php
